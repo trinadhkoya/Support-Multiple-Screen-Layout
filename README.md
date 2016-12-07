@@ -11,4 +11,4 @@ Now i can easily Support Multiple Screens without creating more than one Layout
 
 Author
 
-TRINADH KOYA
+<a href ="https://trinadhkoya.github.io/">TRINADH KOYA</a>
