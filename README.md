@@ -15,11 +15,11 @@ Author
 
 **<a href ="https://trinadhkoya.github.io/" target="_blank">TRINADH KOYA</a>**
 
-Helpful Links:
+**Helpful Links:**
 
 
 https://github.com/intuit/sdp
 
 You can directly integrate thier gradle extension in your Source code
 
-`dependencies {compile 'com.intuit.sdp:sdp-android:1.0.4}`
+`dependencies {compile 'com.in**tuit.sdp:sdp-android:1.0.4}`
